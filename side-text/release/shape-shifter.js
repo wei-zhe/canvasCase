@@ -569,7 +569,8 @@ S.ShapeBuilder = (function () {
     imageFile: function (url, callback) {
       var image = new Image(),
           a = S.Drawing.getArea();
-
+      
+      image.crossOrigin = '';
       image.onload = function () {
         shapeContext.clearRect(0, 0, shapeCanvas.width, shapeCanvas.height);
         shapeContext.drawImage(this, 0, 0, a.h * 0.6, a.h * 0.6);
@@ -580,8 +581,8 @@ S.ShapeBuilder = (function () {
         callback(S.ShapeBuilder.letter('What?'));
       };
 
-      image.src = './'+url;
-      console.log(url);
+      image.src = 'https://wei-zhe.github.io/canvasCase/side-text/release/'+url;
+      // console.log('https://wei-zhe.github.io/canvasCase/side-text/release/'+url);
     },
 
     circle: function (d) {
