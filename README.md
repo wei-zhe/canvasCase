@@ -36,7 +36,7 @@
 
 ### 6. 随心而动，随刃而行。输入文字显示动画粒子特效 ‘side-text’
 
-[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/side-text) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/side-text/index.html)
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/side-text) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/side-text/release/index.html)
 
 
 ### 7. 鼠标移动炫彩小球 ‘globule’
