@@ -66,8 +66,8 @@ S.Drawing = (function () {
     },
 
     adjustCanvas: function () {
-      canvas.width = window.innerWidth;
-      canvas.height = window.innerHeight;
+      canvas.width = document.body.offsetWidth;
+      canvas.height = window.innerHeight - 7;
     },
 
     clearFrame: function () {
@@ -400,7 +400,7 @@ S.Dot = function (x, y) {
   this.e = 0.07;
   this.s = true;
 
-  this.c = new S.Color(102, 102, 102, this.p.a);
+  this.c = new S.Color(52, 152, 219, this.p.a); // 设置全局气泡颜色
 
   this.t = this.clone();
   this.q = [];
