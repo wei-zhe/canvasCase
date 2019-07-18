@@ -580,7 +580,8 @@ S.ShapeBuilder = (function () {
         callback(S.ShapeBuilder.letter('What?'));
       };
 
-      image.src = url;
+      image.src = './'+url;
+      console.log(url);
     },
 
     circle: function (d) {
