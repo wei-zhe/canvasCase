@@ -5,146 +5,87 @@
 
 **注意**：IE 8 以及更早的版本不支持 `<canvas>` 元素。
 
-**贴士**：全部例子都分享在我的 GayHub - https://github.com/bxm0927/canvas-special
-
 <p align="center">
   <a href="https://juejin.im/entry/59901e12f265da3e207709b0/detail"><img src="https://badge.juejin.im/entry/59901e12f265da3e207709b0/likes.svg?style=plastic"></a>
 </p>
 
-### 1. 尤雨溪个人主页炫彩三角纽带效果，点击还可变换
+### 1. 尤雨溪个人主页炫彩三角纽带效果，点击还可变换 ‘evan-you’
 
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/evan-you/index.html)
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/evan-you) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/evan-you/index.html)
 
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/13451038.jpg">
-</div>
 
 ### 2. 知乎登录注册页动态离子背景效果
 
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/zhihu/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/46746967.jpg">
-</div>
-
-### 3. 基于 canvas 的五子棋完整功能实现
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/five-chess/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/73389448.jpg">
-</div>
-
-### 4. 基于 canvas 的《是男人就下100层》小游戏完美实现
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/man-down100/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/7179685.jpg">
-</div>
-
-### 5. 毛笔字书写田字格，可以写字
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/brush/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/46818247.jpg">
-</div>
-
-### 6. 随心而动，随刃而行。输入文字显示动画粒子特效
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/side-text/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/63436276.jpg">
-</div>
-
-### 7. 鼠标移动炫彩小球
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/globule/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/75085934.jpg">
-</div>
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/zhihu) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/zhihu/index.html)
 
 
-### 8. 2048
+### 3. 基于 canvas 的五子棋完整功能实现 ‘five-chess’
 
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/game2048/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/62175805.jpg">
-</div>
-
-### 9. 贪吃蛇
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/snake/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/97986004.jpg">
-</div>
-
-### 10. 看你有多色
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/look-def-color/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/52916235.jpg">
-</div>
-
-### 11. 坦克大战
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/tank/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/61788877.jpg">
-</div>
-
-### 12. 宇宙行星旋转特效
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/universe/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/42596452.jpg">
-</div>
-
-### 13. 支付宝咻咻咻动画特效
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/alipay/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/89320322.jpg">
-</div>
-
-### 14. 程序员表白代码
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/love-time/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/58827874.jpg">
-</div>
-
-### 15. 心形文字
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/heart/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/10558210.jpg">
-</div>
-
-### 16. 照片墙
-
-[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/photo-wall/index.html)
-
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/44601791.jpg">
-</div>
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/five-chess) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/five-chess/index.html)
 
 
-## License
+### 4. 基于 canvas 的《是男人就下100层》小游戏完美实现 ‘man-down100’
 
-The code is available under the [MIT license](https://opensource.org/licenses/MIT).
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/man-down100) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/man-down100/index.html)
 
-<marquee>不断更新，欢迎补充！</marquee>
 
-![](http://oph264zoo.bkt.clouddn.com/17-8-11/10545126.jpg)
+### 5. 毛笔字书写田字格，可以写字 ‘brush’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/brush) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/brush/index.html)
+
+
+### 6. 随心而动，随刃而行。输入文字显示动画粒子特效 ‘side-text’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/side-text) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/side-text/index.html)
+
+
+### 7. 鼠标移动炫彩小球 ‘globule’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/globule) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/globule/index.html)
+
+
+
+### 8. 2048 ‘game2048’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/game2048) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/game2048/index.html)
+
+
+### 9. 贪吃蛇 ‘snake’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/snake) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/snake/index.html)
+
+
+### 10. 看你有多色 ‘look-def-color’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/look-def-color) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/look-def-color/index.html)
+
+
+### 11. 坦克大战 ‘tank’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/tank) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/tank/index.html)
+
+
+### 12. 宇宙行星旋转特效 ‘universe’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/universe) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/universe/index.html)
+
+
+### 13. 支付宝咻咻咻动画特效 ‘alipay’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/alipay) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/alipay/index.html)
+
+
+### 14. 程序员表白代码 ‘love-time’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/love-time) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/love-time/index.html)
+
+
+### 15. 心形文字 ‘heart’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/heart) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/heart/index.html)
+
+
+### 16. 照片墙 ‘photo-wall’
+
+[GitHub源码](https://github.com/wei-zhe/canvasCase/tree/master/photo-wall) 、 [Demo演示](https://wei-zhe.github.io/canvasCase/photo-wall/index.html)
+
